@@ -1,5 +1,6 @@
-Hi there! Thank you for stopping by :)
+# Archived Materials
 
-These are all the materials I archived for the Republic Polytechnic module, A113 Mathematics. It includes 6Ps, worksheets etc.
+This repository contains archived materials for School Module Specified.
+Please give a ⭐ if you found it useful.
 
-Please take note that there could be changes from the current lessons as these materials were for 2017.
+> **Advisory:** These materials are preserved here for reference purposes only. Content, learning structures, and program requirements may have changed since the time of archival. This repository may also be archived or deprecated in the future. For current and accurate information, please refer to own ongoing official institution resources.
